@@ -1,7 +1,7 @@
 # calculator
 
-calculator
+一个flutter的计算器demo
 
-1. flutter doctor 不通过；若使用java8 command-tool需要使用8.0
+1. flutter doctor 不通过；使用java8，anroid-studio中command-tool需要使用8.0
 
-
+apk包     [点击下载](https://github.com/yaolinhong/flutter-demo/blob/main/calculator.apk)
